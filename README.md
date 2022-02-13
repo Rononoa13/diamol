@@ -22,4 +22,6 @@ I've also tried hard to assume a minimum amount of background knowledge — Dock
 
 ## Cover Art
 
-![Cover of the book, Learn Docker in a Month of Lunches](docs/img/cover-meap.PNG)
+![Cover of the book, Learn Docker in a Month of Lunches](docs/img/cover-meap.PNG
+)
+New line inserted:
